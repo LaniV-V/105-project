@@ -11,6 +11,7 @@ section h1 {
 	font: 32px 'Open Sans';
 	font-weight: bold;
 }
-section p {
-	font: 16px 'Open Sans';
+section h3 {
+	font: 18px 'Open Sans';
+	text-align: center;
 }
